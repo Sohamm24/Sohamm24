@@ -3,11 +3,10 @@
 ## 🚀 About Me
 I'm a passionate **Computer Engineer** who loves building innovative solutions and exploring cutting-edge technologies. With a strong foundation in software development and engineering principles, I'm always eager to tackle complex problems and create meaningful impact through code.
 
-🔭 **Currently working on:** [Your current project/focus area]  
-🌱 **Learning:** [Technologies you're currently exploring]  
-💬 **Ask me about:** Software Development, System Design, [Your specialties]  
-📫 **Reach me at:** [your.email@example.com]  
-⚡ **Fun fact:** [Something interesting about you]
+🔭 **Currently working on:** Advanced Backend and System Design  
+🌱 **Learning:** Tensorflow and keras
+💬 **Ask me about:** Software Development, System Desig 
+📫 **Reach me at:** sohamnarvankar24@gmail.com  
 
 ## 🛠️ Tech Stack
 
@@ -15,7 +14,6 @@ I'm a passionate **Computer Engineer** who loves building innovative solutions a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
@@ -44,7 +42,6 @@ I'm a passionate **Computer Engineer** who loves building innovative solutions a
 
 ### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -55,17 +52,17 @@ I'm a passionate **Computer Engineer** who loves building innovative solutions a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamnarvankar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamm24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohamnarvankar&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sohamm24&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamnarvankar&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohamm24&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🌟 Featured Projects
