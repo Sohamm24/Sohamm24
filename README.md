@@ -131,7 +131,6 @@
         <img src="https://img.shields.io/badge/-Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=E8974E" alt="Figma" />
         <img src="https://img.shields.io/badge/-Obsidian-1a1a1a?style=for-the-badge&logo=obsidian&logoColor=E8974E" alt="Obsidian" />
       </p>
-      <p><a href="https://github.com/Sohamm24/Travel-Pinterest-Backend"><b>Explore Code »</b></a></p>
     </td>
     <td width="50%" valign="top">
       <p><strong>DEVOPS</strong></p>
@@ -142,7 +141,6 @@
         <img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=for-the-badge&logo=selenium&logoColor=E8974E" alt="Selenium" />
         <img src="https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=E8974E" alt="Docker" />
       </p>
-      <p><a href="https://github.com/Sohamm24/meal-subscribtion-portal"><b>Explore Code »</b></a></p>
     </td>
   </tr>
   <tr>
@@ -155,7 +153,6 @@
         <img src="https://img.shields.io/badge/-Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=E8974E" alt="Pandas" />
         <img src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=E8974E" alt="MongoDB" />
       </p>
-      <p><a href="https://github.com/Sohamm24/CreatorIQ"><b>Explore Code »</b></a></p>
     </td>
     <td width="50%" valign="top">
       <p><strong>MACHINE LEARNING</strong></p>
@@ -165,7 +162,6 @@
         <img src="https://img.shields.io/badge/-PySpark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=E8974E" alt="PySpark" />
         <img src="https://img.shields.io/badge/-Random%20Forest-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Random Forest" />
       </p>
-      <p><a href="https://github.com/Sohamm24/Social-Media-Friend-Recommendation-using-Graph-Mining"><b>Explore Code »</b></a></p>
     </td>
   </tr>
   <tr>
@@ -177,7 +173,6 @@
         <img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=for-the-badge&logo=selenium&logoColor=E8974E" alt="Selenium" />
         <img src="https://img.shields.io/badge/-NLP-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="NLP" />
       </p>
-      <p><a href="https://github.com/Sohamm24/customer-review-mining"><b>Explore Code »</b></a></p>
     </td>
     <td width="50%" valign="top">
       <p><strong>AGENTIC SECURITY</strong></p>
@@ -188,7 +183,6 @@
         <img src="https://img.shields.io/badge/-Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=E8974E" alt="Flask" />
         <img src="https://img.shields.io/badge/-MCP%20Server-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="MCP Server" />
       </p>
-      <p><a href="https://github.com/Sohamm24/customer-facing-ai-agent"><b>Explore Code »</b></a></p>
     </td>
   </tr>
 </table>
