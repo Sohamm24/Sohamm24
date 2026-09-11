@@ -122,7 +122,7 @@
     </td>
     <td width="78%" valign="middle">
       <p><strong>APP DEVELOPMENT</strong></p>
-      <h3><a href="https://github.com/Sohamm24/Travel-Pinterest-Backend">Troupe — Travel Pinterest Backend</a></h3>
+      <h3><a href="https://github.com/Sohamm24/Troupe-Backend">Troupe - Enabling group-host based travel ecosystem</a></h3>
       <p>My real-world travel project — running at <strong>production scale</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/-Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=E8974E" alt="Redis" />
@@ -143,7 +143,7 @@
     </td>
     <td width="78%" valign="middle">
       <p><strong>DEVOPS</strong></p>
-      <h3><a href="https://github.com/Sohamm24/meal-subscribtion-portal">Meal Subscription Portal</a></h3>
+      <h3><a href="https://github.com/Sohamm24/meal-subscribtion-portal">CI/CD pipeline using Jenkins Selenium & Terraform</a></h3>
       <p>Jenkins & Selenium CI/CD pipeline built for a subscription platform.</p>
       <p>
         <img src="https://img.shields.io/badge/-Jenkins-1a1a1a?style=for-the-badge&logo=jenkins&logoColor=E8974E" alt="Jenkins" />
@@ -159,7 +159,7 @@
     </td>
     <td width="78%" valign="middle">
       <p><strong>DATA ENGINEERING</strong></p>
-      <h3><a href="https://github.com/Sohamm24/CreatorIQ">CreatorIQ</a></h3>
+      <h3><a href="https://github.com/Sohamm24/CreatorIQ">CreaterIQ - Trend forecasting using youtube v3 api signals</a></h3>
       <p>Trend forecasting using YouTube signals, powered by the Prophet model.</p>
       <p>
         <img src="https://img.shields.io/badge/-Prophet-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Prophet" />
@@ -175,7 +175,7 @@
     </td>
     <td width="78%" valign="middle">
       <p><strong>MACHINE LEARNING</strong></p>
-      <h3><a href="https://github.com/Sohamm24/Social-Media-Friend-Recommendation-using-Graph-Mining">Friend Recommendation via Graph Mining</a></h3>
+      <h3><a href="https://github.com/Sohamm24/Social-Media-Friend-Recommendation-using-Graph-Mining">Facebook follow recommendation via graph mining</a></h3>
       <p>Social media friend recommendation system using graph mining.</p>
       <p>
         <img src="https://img.shields.io/badge/-PySpark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=E8974E" alt="PySpark" />
@@ -190,7 +190,7 @@
     </td>
     <td width="78%" valign="middle">
       <p><strong>DATA ANALYTICS</strong></p>
-      <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining</a></h3>
+      <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining on PowerBI Dashboard using Selenium and Natural Language Processing</a></h3>
       <p>Mining and analyzing customer reviews using NLP techniques.</p>
       <p>
         <img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=for-the-badge&logo=selenium&logoColor=E8974E" alt="Selenium" />
@@ -205,7 +205,7 @@
     </td>
     <td width="78%" valign="middle">
       <p><strong>AGENTIC SECURITY</strong></p>
-      <h3><a href="https://github.com/Sohamm24/customer-facing-ai-agent">Zero Trust Support Agent</a></h3>
+      <h3><a href="https://github.com/Sohamm24/customer-facing-ai-agent">Zero Trust Customer Support Agent</a></h3>
       <p>A zero-trust, agentic customer support assistant.</p>
       <p>
         <img src="https://img.shields.io/badge/-Descope-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Descope" />
