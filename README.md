@@ -1,7 +1,9 @@
-# Hi there, I'm Soham Narvankar 👋
+![Soham Narvankar](./github-header.png)
+
+# Hey peeps👋
 
 ## 🚀 About Me
-I'm a passionate **Computer Engineer** who loves building innovative solutions and exploring cutting-edge technologies. With a strong foundation in software development and engineering principles, I'm always eager to tackle complex problems and create meaningful impact through code.
+I'm a passionate **Computer Engineer** who loves building innovative solutions and exploring cutting-edge technologies. 
 
 🔭 **Currently working on:** Advanced Backend and System Design  
 🌱 **Learning:** Tensorflow and keras
