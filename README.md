@@ -263,21 +263,10 @@
 
 ---
 
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">Connect & Collaborate</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohamm24&show_icons=true&theme=transparent&title_color=E8974E&icon_color=E8974E&text_color=cfcfcf&hide_border=true" alt="Soham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamm24&layout=compact&theme=transparent&title_color=E8974E&text_color=cfcfcf&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamm24&theme=transparent&hide_border=true&ring=E8974E&fire=E8974E&currStreakLabel=E8974E&sideLabels=cfcfcf&currStreakNum=cfcfcf&sideNums=cfcfcf&dates=808080" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Sohamm24&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <a href="https://x.com/narvankar_53259"><img src="https://img.shields.io/badge/Follow_on_X-@narvankar__53259-1a1a1a?style=for-the-badge&logo=x&logoColor=E8974E" alt="Follow on X" /></a>
 </p>
 
 ---
