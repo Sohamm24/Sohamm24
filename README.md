@@ -117,7 +117,10 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="22%" align="center">
+      <img src="./logo.png" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Troupe" />
+    </td>
+    <td width="78%" valign="middle">
       <p><strong>APP DEVELOPMENT</strong></p>
       <h3><a href="https://github.com/Sohamm24/Travel-Pinterest-Backend">Troupe — Travel Pinterest Backend</a></h3>
       <p>My real-world travel project — running at <strong>production scale</strong>.</p>
@@ -132,7 +135,13 @@
         <img src="https://img.shields.io/badge/-Obsidian-1a1a1a?style=for-the-badge&logo=obsidian&logoColor=E8974E" alt="Obsidian" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="22%" align="center">
+      <img src="./terraform.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Meal Subscription Portal" />
+    </td>
+    <td width="78%" valign="middle">
       <p><strong>DEVOPS</strong></p>
       <h3><a href="https://github.com/Sohamm24/meal-subscribtion-portal">Meal Subscription Portal</a></h3>
       <p>Jenkins & Selenium CI/CD pipeline built for a subscription platform.</p>
@@ -143,8 +152,12 @@
       </p>
     </td>
   </tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="22%" align="center">
+      <img src="./youtube.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="CreatorIQ" />
+    </td>
+    <td width="78%" valign="middle">
       <p><strong>DATA ENGINEERING</strong></p>
       <h3><a href="https://github.com/Sohamm24/CreatorIQ">CreatorIQ</a></h3>
       <p>Trend forecasting using YouTube signals, powered by the Prophet model.</p>
@@ -154,7 +167,13 @@
         <img src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=E8974E" alt="MongoDB" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="22%" align="center">
+      <img src="./facebook.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Friend Recommendation via Graph Mining" />
+    </td>
+    <td width="78%" valign="middle">
       <p><strong>MACHINE LEARNING</strong></p>
       <h3><a href="https://github.com/Sohamm24/Social-Media-Friend-Recommendation-using-Graph-Mining">Friend Recommendation via Graph Mining</a></h3>
       <p>Social media friend recommendation system using graph mining.</p>
@@ -164,8 +183,12 @@
       </p>
     </td>
   </tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="22%" align="center">
+      <img src="./powerBI.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Customer Review Mining" />
+    </td>
+    <td width="78%" valign="middle">
       <p><strong>DATA ANALYTICS</strong></p>
       <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining</a></h3>
       <p>Mining and analyzing customer reviews using NLP techniques.</p>
@@ -174,7 +197,13 @@
         <img src="https://img.shields.io/badge/-NLP-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="NLP" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="22%" align="center">
+      <img src="./zerotrust.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Zero Trust Support Agent" />
+    </td>
+    <td width="78%" valign="middle">
       <p><strong>AGENTIC SECURITY</strong></p>
       <h3><a href="https://github.com/Sohamm24/customer-facing-ai-agent">Zero Trust Support Agent</a></h3>
       <p>A zero-trust, agentic customer support assistant.</p>
