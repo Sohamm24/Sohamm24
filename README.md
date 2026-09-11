@@ -1,209 +1,248 @@
 <div align="center">
 
-![Soham Narvankar](./github-header.png)
-
-# Hey peeps 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:E8974E&height=190&section=header&text=Soham%20Narvankar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%" />
 
 I'm a passionate **Computer Engineer** who loves building innovative solutions and exploring cutting-edge technologies.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=FFA500&center=true&vCenter=true&width=550&height=70&lines=Full+Stack+Engineer+%7C+DevOps;Cloud+(+CDAC+Certified+);Specialization+in+AI+%26+ML+(+B.Tech+)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=E8974E&center=true&vCenter=true&width=560&height=45&lines=Full+Stack+Engineer+%7C+DevOps;Cloud+(+CDAC+Certified+);Specialization+in+AI+%26+ML+(+B.Tech+)" alt="Typing SVG" />
 
----
+<br/>
 
-## 📊 Engineering Impact & Production Metrics
+<img src="https://img.shields.io/badge/-Mumbai%2C%20India-1a1a1a?style=flat-square&logo=googlemaps&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-github.com%2FSohamm24-1a1a1a?style=flat-square&logo=github&logoColor=E8974E" />
 
-<table>
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 &nbsp; Engineering Impact & Production Metrics
+
+</div>
+
+<table width="100%">
   <tr>
-    <th align="center">🚀 Real Projects Shipped</th>
-    <th align="center">⚡ Performance Tuning</th>
-    <th align="center">☁️ DevOps & Cloud</th>
-    <th align="center">🏆 Technical Competitions</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
+    <td align="center" width="25%">
+      <h2>🚀</h2>
       <h3>2</h3>
-      <sub>Real-world client projects shipped to production</sub>
+      <sub><b>Real Projects Shipped</b></sub><br/>
+      <sub>For clients, at production scale</sub>
     </td>
-    <td align="center" valign="top">
-      <h3>35% Latency Reduction</h3>
-      <sub>Optimized via KV edge caching & database indexing under concurrent load</sub>
+    <td align="center" width="25%">
+      <h2>⚡</h2>
+      <h3>35%</h3>
+      <sub><b>Latency Reduction</b></sub><br/>
+      <sub>Via KV edge caching & DB indexing under load</sub>
     </td>
-    <td align="center" valign="top">
-      <h3>15+ Zero-Downtime Releases</h3>
-      <sub>AWS EC2, Docker & automated GitHub Actions CI/CD pipelines</sub>
+    <td align="center" width="25%">
+      <h2>☁️</h2>
+      <h3>15+</h3>
+      <sub><b>Zero-Downtime Releases</b></sub><br/>
+      <sub>AWS EC2, Docker & GitHub Actions CI/CD</sub>
     </td>
-    <td align="center" valign="top">
-      <h3>3x Hackathon Finalist</h3>
-      <sub>Smart India Hackathon, Hackoverflow 3.0 & Inspiron 4.0</sub>
+    <td align="center" width="25%">
+      <h2>🏆</h2>
+      <h3>3x</h3>
+      <sub><b>Hackathon Finalist</b></sub><br/>
+      <sub>SIH, Hackoverflow 3.0 & Inspiron 4.0</sub>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**☁️ Cloud**
+## 🛠️ &nbsp; Tech Stack
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=orange" />
+<table>
+<tr>
+<td valign="top" width="16%"><b>☁️ Cloud</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/-AWS-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=E8974E" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>⚙️ Backend</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/-FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Cloudflare%20Workers-1a1a1a?style=flat-square&logo=cloudflare&logoColor=E8974E" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🎨 Frontend</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-React%20Native-1a1a1a?style=flat-square&logo=react&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=E8974E" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🗄️ Database</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Cloudflare%20KV-1a1a1a?style=flat-square&logo=cloudflare&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Redis-1a1a1a?style=flat-square&logo=redis&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=E8974E" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>📦 DevOps & CI/CD</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logo=docker&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-GitHub%20Actions-1a1a1a?style=flat-square&logo=github-actions&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Jenkins-1a1a1a?style=flat-square&logo=jenkins&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=flat-square&logo=selenium&logoColor=E8974E" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🧩 ORM</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/-Sequelize-1a1a1a?style=flat-square&logo=sequelize&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Drizzle-1a1a1a?style=flat-square&logoColor=E8974E" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🌐 Other Tools</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/-Linux-1a1a1a?style=flat-square&logo=linux&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-C-1a1a1a?style=flat-square&logo=c&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-WebSockets-1a1a1a?style=flat-square&logo=socket.io&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-WebRTC-1a1a1a?style=flat-square&logo=webrtc&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-VectorDB-1a1a1a?style=flat-square&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Expo-1a1a1a?style=flat-square&logo=expo&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Shopify%20Storefront-1a1a1a?style=flat-square&logo=shopify&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=E8974E" />
+<img src="https://img.shields.io/badge/-Figma-1a1a1a?style=flat-square&logo=figma&logoColor=E8974E" />
+</td>
+</tr>
+</table>
 
-**⚙️ Backend**
+</div>
 
-<img src="https://img.shields.io/badge/FastAPI-FFA500?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-FF8C00?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare_Workers-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<br/>
 
-**🎨 Frontend**
+<div align="center">
 
-<img src="https://img.shields.io/badge/React-FFA500?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-FF8C00?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-FFA500?style=for-the-badge&logo=next.js&logoColor=white" />
+## 🚀 &nbsp; Featured Projects
 
-**🗄️ Databases**
+</div>
 
-<img src="https://img.shields.io/badge/PostgreSQL-FF8C00?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare_KV-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-FF8C00?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-FFA500?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=white" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**📦 DevOps & CI/CD**
+**📱 APP DEVELOPMENT**
 
-<img src="https://img.shields.io/badge/Docker-FFA500?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-FF8C00?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-FFA500?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-FF8C00?style=for-the-badge&logo=selenium&logoColor=white" />
-
-**🧩 ORM**
-
-<img src="https://img.shields.io/badge/Sequelize-FFA500?style=for-the-badge&logo=sequelize&logoColor=white" />
-<img src="https://img.shields.io/badge/Drizzle-FF8C00?style=for-the-badge&logoColor=white" />
-
-**🌐 Other Tools & Tech**
-
-<img src="https://img.shields.io/badge/Linux-FFA500?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-FF8C00?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/WebRTC-FFA500?style=for-the-badge&logo=webrtc&logoColor=white" />
-<img src="https://img.shields.io/badge/VectorDB-FF8C00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-FFA500?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify_Storefront-FF8C00?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-FFA500?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-FF8C00?style=for-the-badge&logo=figma&logoColor=white" />
-
----
-
-## 🚀 Featured Projects
-
-### 📱 APP DEVELOPMENT
-
-**[Troupe — Travel Pinterest Backend](https://github.com/Sohamm24/Travel-Pinterest-Backend)**
-
+### [Troupe — Travel Pinterest Backend](https://github.com/Sohamm24/Travel-Pinterest-Backend)
 My real-world travel project — running at **production scale**.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=Travel-Pinterest-Backend&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
+<img src="https://img.shields.io/badge/-Redis-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Queue-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-FastAPI-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Razorpay-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Figma-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Obsidian-1a1a1a?style=flat-square&logoColor=E8974E" />
 
-`Redis` `Queue` `FastAPI` `PostgreSQL` `Razorpay` `React` `Figma` `Obsidian`
+</td>
+<td width="50%" valign="top">
 
----
+**⚙️ DEVOPS**
 
-### ⚙️ DEVOPS
+### [Meal Subscription Portal](https://github.com/Sohamm24/meal-subscribtion-portal)
+Jenkins & Selenium CI/CD pipeline built for a subscription platform.
 
-**[Meal Subscription Portal — Jenkins & Selenium CI/CD Pipeline](https://github.com/Sohamm24/meal-subscribtion-portal)**
+<img src="https://img.shields.io/badge/-Jenkins-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logoColor=E8974E" />
 
-Automated CI/CD pipeline built for a subscription platform.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=meal-subscribtion-portal&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
+**📊 DATA ENGINEERING**
 
-`Jenkins` `Selenium` `Docker`
-
----
-
-### 📊 DATA ENGINEERING
-
-**[CreatorIQ](https://github.com/Sohamm24/CreatorIQ)**
-
+### [CreatorIQ](https://github.com/Sohamm24/CreatorIQ)
 Trend forecasting using YouTube signals, powered by the Prophet model.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=CreatorIQ&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
+<img src="https://img.shields.io/badge/-Prophet-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Pandas-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logoColor=E8974E" />
 
-`Prophet` `Pandas` `MongoDB`
+</td>
+<td width="50%" valign="top">
 
----
+**🤖 MACHINE LEARNING**
 
-### 🤖 MACHINE LEARNING
+### [Friend Recommendation via Graph Mining](https://github.com/Sohamm24/Social-Media-Friend-Recommendation-using-Graph-Mining)
+Social media friend recommendation system using graph mining.
 
-**[Social Media Friend Recommendation Using Graph Mining](https://github.com/Sohamm24/Social-Media-Friend-Recommendation-using-Graph-Mining)**
+<img src="https://img.shields.io/badge/-PySpark-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Random%20Forest-1a1a1a?style=flat-square&logoColor=E8974E" />
 
-Friend recommendation system built using graph mining techniques.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=Social-Media-Friend-Recommendation-using-Graph-Mining&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
+**📈 DATA ANALYTICS**
 
-`PySpark` `Random Forest`
-
----
-
-### 📈 DATA ANALYTICS
-
-**[Customer Review Mining](https://github.com/Sohamm24/customer-review-mining)**
-
+### [Customer Review Mining](https://github.com/Sohamm24/customer-review-mining)
 Mining and analyzing customer reviews using NLP techniques.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=customer-review-mining&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
+<img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-NLP-1a1a1a?style=flat-square&logoColor=E8974E" />
 
-`Selenium` `NLP`
+</td>
+<td width="50%" valign="top">
 
----
+**🔐 AGENTIC SECURITY**
 
-### 🔐 AGENTIC SECURITY
-
-**[Zero Trust Customer Support Agent](https://github.com/Sohamm24/customer-facing-ai-agent)**
-
+### [Zero Trust Support Agent](https://github.com/Sohamm24/customer-facing-ai-agent)
 A zero-trust, agentic customer support assistant.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=customer-facing-ai-agent&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
+<img src="https://img.shields.io/badge/-Descope-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-Flask-1a1a1a?style=flat-square&logoColor=E8974E" /> <img src="https://img.shields.io/badge/-MCP%20Server-1a1a1a?style=flat-square&logoColor=E8974E" />
 
-`Descope` `Flask` `MCP Server`
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📌 Other Projects (Pinned)
+<div align="center">
 
-<a href="https://github.com/Sohamm24/FitGaurd-Fitness-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=FitGaurd-Fitness-App&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" width="45%" /></a>
-<a href="https://github.com/Sohamm24/LangSQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=LangSQL&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" width="45%" /></a>
-
-<a href="https://github.com/Sohamm24/Distributed-Smart-City-Traffic-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=Distributed-Smart-City-Traffic-Management-System&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" width="45%" /></a>
-<a href="https://github.com/Sohamm24/Veloxa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohamm24&repo=Veloxa&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" width="45%" /></a>
+## 📌 &nbsp; Other Projects (Pinned)
 
 | Project | Description |
-|---|---|
-| **Fitguard Fitness App** | Track your anomalies |
-| **LangSQL** | Natural Language to SQL Query Compiler |
-| **Distributed Traffic Signal** | RPC-based controller and manipulator |
-| **Veloxa** | Real-time meetings platform |
+|:--|:--|
+| **[Fitguard Fitness App](https://github.com/Sohamm24/FitGaurd-Fitness-App)** | Track your anomalies |
+| **[LangSQL](https://github.com/Sohamm24/LangSQL)** | Natural Language to SQL Query Compiler |
+| **[Distributed Traffic Signal](https://github.com/Sohamm24/Distributed-Smart-City-Traffic-Management-System)** | RPC-based controller and manipulator |
+| **[Veloxa](https://github.com/Sohamm24/Veloxa)** | Real-time meetings platform |
 
----
+</div>
 
-## 🏆 Honours & Certifications
+<br/>
+
+<div align="center">
+
+## 🏆 &nbsp; Honours & Certifications
 
 | Credential / Recognition | Organization / Issuer | Details |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | Cloud Computing Certification | CDAC | Certified in cloud computing fundamentals & practices |
 | Technical Job Simulation | Deloitte | Completed job simulation focused on technical problem-solving |
 | Digital Marketing Certification | IIDE | Certification in digital marketing fundamentals |
 | Hackoverflow Hackathon (36 Hrs) | Pillai HOC College | Finalist — 36-hour hackathon |
 | Inspiron Hackathon (24 Hrs) | COEP, Pune | Finalist — 24-hour hackathon |
 
----
+</div>
 
-## 📈 GitHub Stats
+<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohamm24&show_icons=true&theme=gotham&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamm24&layout=compact&theme=gotham&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&border_color=FF8C00" />
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamm24&theme=gotham&hide_border=true&background=0D1117&ring=FFA500&fire=FF8C00&currStreakLabel=FFA500" />
+## 📈 &nbsp; GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sohamm24&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=8&column=4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohamm24&show_icons=true&theme=transparent&title_color=E8974E&icon_color=E8974E&text_color=cfcfcf&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamm24&layout=compact&theme=transparent&title_color=E8974E&text_color=cfcfcf&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamm24&theme=transparent&hide_border=true&ring=E8974E&fire=E8974E&currStreakLabel=E8974E&sideLabels=cfcfcf&currStreakNum=cfcfcf&sideNums=cfcfcf&dates=808080" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sohamm24&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
