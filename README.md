@@ -164,7 +164,6 @@
       <p>
         <img src="https://img.shields.io/badge/-Prophet-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Prophet" />
         <img src="https://img.shields.io/badge/-Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=E8974E" alt="Pandas" />
-        <img src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=E8974E" alt="MongoDB" />
       </p>
     </td>
   </tr>
@@ -179,7 +178,6 @@
       <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining using Playwright and Natural Language Processing</a></h3>
       <p>Mining and analyzing customer reviews using NLP techniques.</p>
       <p>
-        <img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=for-the-badge&logo=selenium&logoColor=E8974E" alt="Selenium" />
         <img src="https://img.shields.io/badge/-NLP-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="NLP" />
       </p>
     </td>
