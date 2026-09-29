@@ -172,7 +172,7 @@
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td width="22%" align="center">
-      <img src="./playwright.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Customer Review Mining" />
+      <img src="./playwright.png" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Customer Review Mining" />
     </td>
     <td width="78%" valign="middle">
       <p><strong>DATA ANALYTICS ( ML & NLP )</strong></p>
