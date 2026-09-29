@@ -158,7 +158,7 @@
       <img src="./youtube.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="CreatorIQ" />
     </td>
     <td width="78%" valign="middle">
-      <p><strong>DATA ENGINEERING</strong></p>
+      <p><strong>TIME SERIES DATA ENGINEERING & MACHINE LEARNING</strong></p>
       <h3><a href="https://github.com/Sohamm24/CreatorIQ">CreaterIQ - Trend forecasting using youtube v3 api signals</a></h3>
       <p>Trend forecasting using YouTube signals, powered by the Prophet model.</p>
       <p>
@@ -172,11 +172,11 @@
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td width="22%" align="center">
-      <img src="./powerBI.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Customer Review Mining" />
+      <img src="./playwright.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Customer Review Mining" />
     </td>
     <td width="78%" valign="middle">
       <p><strong>DATA ANALYTICS ( ML & NLP )</strong></p>
-      <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining on PowerBI Dashboard using Selenium and Natural Language Processing</a></h3>
+      <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining using Playwright and Natural Language Processing</a></h3>
       <p>Mining and analyzing customer reviews using NLP techniques.</p>
       <p>
         <img src="https://img.shields.io/badge/-Selenium-1a1a1a?style=for-the-badge&logo=selenium&logoColor=E8974E" alt="Selenium" />
