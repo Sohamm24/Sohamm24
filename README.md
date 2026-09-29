@@ -169,27 +169,13 @@
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
-  <tr>
-    <td width="22%" align="center">
-      <img src="./facebook.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Friend Recommendation via Graph Mining" />
-    </td>
-    <td width="78%" valign="middle">
-      <p><strong>MACHINE LEARNING</strong></p>
-      <h3><a href="https://github.com/Sohamm24/Social-Media-Friend-Recommendation-using-Graph-Mining">Facebook follow recommendation via graph mining</a></h3>
-      <p>Social media friend recommendation system using graph mining.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-PySpark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=E8974E" alt="PySpark" />
-        <img src="https://img.shields.io/badge/-Random%20Forest-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Random Forest" />
-      </p>
-    </td>
-  </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td width="22%" align="center">
       <img src="./powerBI.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Customer Review Mining" />
     </td>
     <td width="78%" valign="middle">
-      <p><strong>DATA ANALYTICS</strong></p>
+      <p><strong>DATA ANALYTICS ( ML & NLP )</strong></p>
       <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining on PowerBI Dashboard using Selenium and Natural Language Processing</a></h3>
       <p>Mining and analyzing customer reviews using NLP techniques.</p>
       <p>
