@@ -155,15 +155,21 @@
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td width="22%" align="center">
-      <img src="./youtube.jpg" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="CreatorIQ" />
+      <img src="./apache-airflow.png" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Medallion Lakehouse Architecture" />
     </td>
     <td width="78%" valign="middle">
-      <p><strong>TIME SERIES DATA ENGINEERING & MACHINE LEARNING</strong></p>
-      <h3><a href="https://github.com/Sohamm24/CreatorIQ">CreaterIQ - Trend forecasting using youtube v3 api signals</a></h3>
-      <p>Trend forecasting using YouTube signals, powered by the Prophet model.</p>
+      <p><strong>DATA ENGINEERING</strong></p>
+      <h3><a href="https://github.com/Sohamm24/newyork-taxi-lakehouse-medallion-architecture">Medallion Lakehouse Architecture</a></h3>
+      <p>Dockerized Medallion Lakehouse processing <strong>5.97M NYC taxi trips</strong> with PySpark and Delta Lake on MinIO (S3). Invalid records (528K) are quarantined with auditable rejection codes, Airflow runs idempotent pipelines, and Gold-layer tables feed a Metabase executive dashboard via a zero-copy DuckDB to PostgreSQL sync.</p>
       <p>
-        <img src="https://img.shields.io/badge/-Prophet-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Prophet" />
-        <img src="https://img.shields.io/badge/-Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=E8974E" alt="Pandas" />
+        <img src="https://img.shields.io/badge/-Apache%20Airflow-1a1a1a?style=for-the-badge&logo=apache-airflow&logoColor=E8974E" alt="Apache Airflow" />
+        <img src="https://img.shields.io/badge/-PySpark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=E8974E" alt="PySpark" />
+        <img src="https://img.shields.io/badge/-Delta%20Lake-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Delta Lake" />
+        <img src="https://img.shields.io/badge/-MinIO-1a1a1a?style=for-the-badge&logo=minio&logoColor=E8974E" alt="MinIO" />
+        <img src="https://img.shields.io/badge/-DuckDB-1a1a1a?style=for-the-badge&logo=duckdb&logoColor=E8974E" alt="DuckDB" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=E8974E" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/-Metabase-1a1a1a?style=for-the-badge&logo=metabase&logoColor=E8974E" alt="Metabase" />
+        <img src="https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=E8974E" alt="Docker" />
       </p>
     </td>
   </tr>
@@ -171,14 +177,18 @@
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td width="22%" align="center">
-      <img src="./playwright.png" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Customer Review Mining" />
+      <img src="./kafka.png" width="150" height="150" style="border-radius: 20px; object-fit: cover;" alt="Real Time Orders Streaming Pipeline" />
     </td>
     <td width="78%" valign="middle">
-      <p><strong>DATA ANALYTICS ( ML & NLP )</strong></p>
-      <h3><a href="https://github.com/Sohamm24/customer-review-mining">Customer Review Mining using Playwright and Natural Language Processing</a></h3>
-      <p>Mining and analyzing customer reviews using NLP techniques.</p>
+      <p><strong>DATA ENGINEERING ( STREAMING )</strong></p>
+      <h3><a href="https://github.com/Sohamm24/realtime-data-streaming-using-kafka">Real Time Orders Streaming Pipeline</a></h3>
+      <p>Event-driven pipeline built on Apache Kafka and Spark Structured Streaming, ingesting multi-city transaction streams into Delta Lake with 1-minute tumbling window aggregations. Watermarking, stateful deduplication and dead letter routing handle late or corrupted events, with <strong>zero data loss and no duplicate commits</strong> across container restarts.</p>
       <p>
-        <img src="https://img.shields.io/badge/-NLP-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="NLP" />
+        <img src="https://img.shields.io/badge/-Apache%20Kafka-1a1a1a?style=for-the-badge&logo=apachekafka&logoColor=E8974E" alt="Apache Kafka" />
+        <img src="https://img.shields.io/badge/-Spark%20Structured%20Streaming-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=E8974E" alt="Spark Structured Streaming" />
+        <img src="https://img.shields.io/badge/-PySpark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=E8974E" alt="PySpark" />
+        <img src="https://img.shields.io/badge/-Delta%20Lake-1a1a1a?style=for-the-badge&logoColor=E8974E" alt="Delta Lake" />
+        <img src="https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=E8974E" alt="Docker" />
       </p>
     </td>
   </tr>
